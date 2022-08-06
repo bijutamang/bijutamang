@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bijutamangg@gmail.com**
 
-- ⚡ Fun fact **I can dance**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
