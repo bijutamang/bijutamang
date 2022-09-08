@@ -1,5 +1,5 @@
 
-[![MasterHead](https://dbcms.docubay.com/featured-images/1603904697-hackers-1024x576-banner-xoriginal.jpg)](https://bijutamang.github.io)
+[![MasterHead](https:)](https://bijutamang.github.io)
 
 <h1 align="center">Hi 👋, I'm Biju Tamang</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
